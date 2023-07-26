@@ -1,0 +1,12 @@
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\Faik_Nadir\Desktop\Projects\StudentsScore\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
